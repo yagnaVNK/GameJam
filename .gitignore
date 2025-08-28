@@ -1,1 +1,9 @@
 Library/PackageCache/
+Logs
+Library\Artifacts
+/Library/Artifacts
+/Library
+*.mvfrm
+*.mvfrm
+Library
+Temp
